@@ -1,5 +1,3 @@
-# AULA 1 ATIVIDADE 8 FEITA - REACT LIDANDO COM ARQUIVOS ESTATICOS - SEMANA21 02_02 #
-
 # Objetivos do projeto
 
 - Utilizar o normalize.css para resetar estilos padrões de navegadores
