@@ -6,4 +6,4 @@
 - Utilizar o CSS Modules através do pacote classnames 
 - Utilizar o SVGR para importar svgs como componentes React
 - Entender como o React trata os imports estáticos tanto via arquivos .js quanto em arquivos de estilos como .scss ou .css. 
-- Importar arquivos estáticos como variáveis via js ou utilizando a pasta public para imports dinâmicos de arquivos estáticos 
+- Importar arquivos estáticos como variáveis via js ou utilizando a pasta public para imports dinâmicos de arquivos estáticos.
