@@ -1,3 +1,16 @@
+# Página de cardápio de um restaurante
+
+Na página de cardápio do restaurante vamos:
+
+- Encontrar todos os pratos com suas especificações
+- Selecionar os grupos por Massas, Carnes, Combos e Veganos
+- Ordenar os pratos por Porção, Qtd.pessoas e Preço, dentro do grupo selecionado
+- Ordenar entre todos os pratos do restaurante: clicando novamente no grupo selecionado, a seleção é retirada e  ordenação acessa todos os pratos do restaurante
+- Suspender a ordenação clicando na opção vazia dentro do ordenador
+
+![Alt text](Aluroni.gif)
+
+
 # Objetivos do projeto
 
 - Utilizar o normalize.css para resetar estilos padrões de navegadores
