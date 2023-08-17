@@ -8,7 +8,7 @@ Na página de cardápio do restaurante vamos:
 - Ordenar entre todos os pratos do restaurante: clicando novamente no grupo selecionado, a seleção é retirada e  ordenação acessa todos os pratos do restaurante
 - Suspender a ordenação clicando na opção vazia dentro do ordenador
 
-![Alt text](Aluroni-1.gif)
+![Alt text](Aluroni.gif)
 
 
 # Objetivos do projeto
